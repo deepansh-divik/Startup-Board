@@ -1,0 +1,47 @@
+header {
+    text-align: center;
+    margin-bottom: 20px; 
+  }
+  
+  main {
+    display: flex; 
+    justify-content: center;
+  }
+  
+  section {
+    text-align: center; 
+    margin: 0 10px; 
+  }
+  
+  h2{
+    margin-bottom: 20px;
+  }
+
+  .list {
+    text-align: center; 
+    font-size: 20px; 
+    margin: 10px; 
+    padding-left: 5px; 
+  }
+  
+  ul {
+    list-style-position: inside; 
+    padding-left: 0; 
+  }
+  
+  .button {
+    font-size: 15px;
+    margin: 2px; /* Adjust margin */
+    margin-bottom: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #f39980; 
+    color: white;
+    border: none;
+    padding: 8px 16px;
+  }
+
+  .button:hover {
+    background-color: #0056b3; /* Darker shade for hover */
+  }
+  
